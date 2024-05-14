@@ -3,7 +3,7 @@
  * can be found in the LICENSE file at https://github.com/cartant/eslint-etc
  */
 
-import { ESLintUtils } from "@typescript-eslint/experimental-utils";
+import { ESLintUtils } from "@typescript-eslint/utils";
 
 const { getParserServices } = ESLintUtils;
 export { getParserServices };

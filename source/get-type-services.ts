@@ -7,7 +7,7 @@ import {
   ESLintUtils,
   TSESLint,
   TSESTree as es,
-} from "@typescript-eslint/experimental-utils";
+} from "@typescript-eslint/utils";
 import * as tsutils from "tsutils-etc";
 import * as ts from "typescript";
 import { isArrowFunctionExpression, isFunctionDeclaration } from "./is";

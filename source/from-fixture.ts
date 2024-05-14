@@ -3,7 +3,7 @@
  * can be found in the LICENSE file at https://github.com/cartant/eslint-etc
  */
 
-import { TSESLint as eslint } from "@typescript-eslint/experimental-utils";
+import { TSESLint as eslint } from "@typescript-eslint/utils";
 
 export function fromFixture<TMessageIds extends string>(
   fixture: string,
