@@ -4,7 +4,7 @@
     "url": "https://github.com/cartant/eslint-etc/issues"
   },
   "dependencies": {
-    "@typescript-eslint/utils": "^6.0.0",
+    "@typescript-eslint/utils": "^7.0.0",
     "tsutils": "^3.17.1",
     "tsutils-etc": "^1.4.1"
   },
